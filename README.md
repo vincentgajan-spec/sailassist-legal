@@ -1,1 +1,1 @@
-# sailassist-legal
+# sailpilot-legal
