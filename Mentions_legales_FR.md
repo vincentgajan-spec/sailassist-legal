@@ -8,7 +8,7 @@
 ## Éditeur du site et de l’application
 
 **Nom / raison de l’éditeur :** Vincent ROLLAND GAJAN  
-**Statut :** indépendant / entrepreneur individuel *(à ajuster selon votre statut exact)*  
+**Statut :** indépendant  
 **Adresse :** 38 ter avenue de Montbrun, 64600 Anglet, France  
 **Email de contact :** sailassist@yahoo.com
 
@@ -17,8 +17,8 @@
 **Vincent ROLLAND GAJAN**
 
 ## Numéros d’identification
-- **SIREN / SIRET :** [À compléter]
-- **TVA intracommunautaire :** [À compléter si applicable]
+- **SIREN / SIRET :** 
+- **TVA intracommunautaire :** 
 
 ## Hébergement du site support
 - **Hébergeur :** [À compléter]
